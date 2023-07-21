@@ -1,0 +1,15 @@
+<hr style='border: black 1px solid;'>
+              <fieldset style='width: 50%;
+                               margin: auto;
+                               border-radius: 20px;
+                               font-family: Monospace;
+                               border: black 3px solid;'align='center'>
+                <legend align='center'>
+                  <h2 style='background-color: black;
+                             color: red;
+                             padding: 5px 20px;
+                             border-radius: 30px;'><a style='color: red;'>Zeev-x</a></h2>
+                </legend>
+                <a style='color: black;'>Contoh chat sederhana menggunakan php dan ajax</a>
+                <br><br>
+              </fieldset>
